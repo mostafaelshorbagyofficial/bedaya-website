@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "bedaya-website",
   "version": "1.0.0",
   "description": "Bedaya Company for Feed Mills Construction - Corporate Website Demo",
@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "node server.js",
     "serve": "node server.js",
-    "build": "node build_src/build_html_refined.js && node build_src/make_css.js && node build_src/build_app_js.js"
+    "build": "echo 'Static site ready'"
   },
   "keywords": [
     "bedaya",
