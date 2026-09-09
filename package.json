@@ -1,0 +1,27 @@
+﻿{
+  "name": "bedaya-website",
+  "version": "1.0.0",
+  "description": "Bedaya Company for Feed Mills Construction - Corporate Website Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "build": "node build_src/build_html_refined.js && node build_src/make_css.js && node build_src/build_app_js.js"
+  },
+  "keywords": [
+    "bedaya",
+    "feed-mills",
+    "construction",
+    "corporate-website",
+    "engineering",
+    "egypt",
+    "gulf",
+    "oman",
+    "saudi-arabia",
+    "uae"
+  ],
+  "author": "Bedaya Company for Feed Mills Construction",
+  "license": "UNLICENSED",
+  "private": true
+}
